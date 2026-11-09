@@ -1,0 +1,21 @@
+siberian-husky: https://images.dog.ceo/breeds/husky/n02110185_2736.jpg
+poodle-standard: https://images.dog.ceo/breeds/poodle-standard/n02113799_525.jpg
+german-shepherd-dog: https://images.dog.ceo/breeds/german-shepherd/n02106662_4522.jpg
+shiba-inu: https://images.dog.ceo/breeds/shiba/shiba-5.jpg
+labrador-retriever: https://images.dog.ceo/breeds/labrador/n02099712_6646.jpg
+dalmatian: https://images.dog.ceo/breeds/dalmatian/cooper2.jpg
+beagle: https://images.dog.ceo/breeds/beagle/n02088364_14394.jpg
+border-collie: https://images.dog.ceo/breeds/collie-border/n02106166_459.jpg
+pembroke-welsh-corgi: https://images.dog.ceo/breeds/pembroke/n02113023_5310.jpg
+dachshund: https://images.dog.ceo/breeds/dachshund/dog-1018408_640.jpg
+boxer: https://images.dog.ceo/breeds/boxer/n02108089_6429.jpg
+golden-retriever: https://images.dog.ceo/breeds/retriever-golden/n02099601_4005.jpg
+shih-tzu: https://images.dog.ceo/breeds/shihtzu/n02086240_4608.jpg
+samoyed: https://images.dog.ceo/breeds/samoyed/n02111889_597.jpg
+pug: https://images.dog.ceo/breeds/pug/n02110958_13995.jpg
+chihuahua: https://images.dog.ceo/breeds/chihuahua/n02085620_3763.jpg
+rottweiler: https://images.dog.ceo/breeds/rottweiler/n02106550_5184.jpg
+maltese: https://images.dog.ceo/breeds/maltese/n02085936_1288.jpg
+pomeranian: https://images.dog.ceo/breeds/pomeranian/n02112018_14257.jpg
+
+aspin: Photo by Ewen Roberts, "Askal (aspin) dog Masinloc, Zambales"; CC BY 2.0 https://creativecommons.org/licenses/by/2.0/ ; https://commons.wikimedia.org/wiki/File:Askal_(aspin)_dog_Masinloc,_Zambales.jpg ; resized by Wikimedia, displayed with responsive cropping.

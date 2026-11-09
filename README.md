@@ -43,5 +43,15 @@ Images are bundled locally; their original source URLs are recorded in `public/d
 
 ## Checks
 
-Run `npm test` to check all 20 photo files, search, bookmarks, filters, profiles, source credits, trivia, care articles, and recovery from invalid saved data. Native dialog focus and responsive visual layout still need a real-browser check.
+Run `npm test` to check all 20 photo files, the 240 sourced facts and food entries, collection search/filters/pagination, breed search, bookmarks, profiles, source credits, trivia, care articles, and recovery from invalid saved data. Native dialog focus and responsive visual layout still need a real-browser check.
 
+
+## Restored facts and food library
+
+`src/KnowledgeLibrary.tsx` adds the original facts and food collections within the current design. It includes collection tabs, keyword search, food guidance filters, 12-entry pagination, keyboard navigation, source links, and useful empty states. Legacy anchors `#facts`, `#good-foods`, and `#bad-foods` open the relevant collection.
+
+The pasted original contains **120 facts, 58 good-food entries, and 62 bad-food entries** despite its “100” headings. All 240 entries and their order are retained, including repeated entries. The UI displays actual counts. The original is preserved in `docs/original-guide.txt`; it is an unreviewed historical copy, not current feeding guidance.
+
+`src/knowledge.json` contains the restored text, original wording, reference URLs, and food preparation notes. `scripts/restore-guide.mjs` regenerates it from the historical copy and explicit editorial corrections. Food entries distinguish occasional treats, caution, veterinary review, avoidance, toxicity, obstruction, and preparation-dependent concerns. The original good-food list includes items now marked **Avoid**, such as almonds and cherries; it should never be treated as a blanket list of safe foods.
+
+After editing the historical copy or the explicit corrections, regenerate the data with `node scripts/restore-guide.mjs`.

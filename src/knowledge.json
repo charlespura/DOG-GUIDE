@@ -1,0 +1,1875 @@
+{
+  "facts": [
+    {
+      "id": "fact-1",
+      "original": "Dogs have a sense of smell that's 40 times stronger than humans.",
+      "text": "Dogs have a much more sensitive sense of smell than people; there is no single multiplier that describes every scent or every dog.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-2",
+      "original": "Dogs can understand about 165 words and gestures.",
+      "text": "Dogs can learn spoken cues and object names, but vocabulary varies widely with the individual and their training.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-3",
+      "original": "Dogs are as smart as a two-year-old child.",
+      "text": "Dogs have different strengths in learning and problem solving. Comparing every dog to a particular human age or assigning one universal intelligence ranking is misleading.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-4",
+      "original": "A dog’s sense of hearing is more acute than humans.",
+      "text": "A dog’s sense of hearing is more acute than humans.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs"
+    },
+    {
+      "id": "fact-5",
+      "original": "Dogs have about 1,700 taste buds, compared to humans' 9,000.",
+      "text": "Dogs have fewer taste buds than people and rely heavily on smell when investigating food.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-6",
+      "original": "Dogs' noses are wet to absorb scent chemicals.",
+      "text": "Moisture helps a dog collect scent particles. A wet or dry nose by itself is not a reliable health test.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-7",
+      "original": "Dogs can be trained to detect diseases like cancer and diabetes.",
+      "text": "Specially trained dogs have been studied for detecting disease-related odors. They do not replace medical screening or a clinical diagnosis.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-8",
+      "original": "A dog’s nose print is unique, much like a human fingerprint.",
+      "text": "A dog’s nose print is unique, much like a human fingerprint.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs"
+    },
+    {
+      "id": "fact-9",
+      "original": "Dogs sweat through their paw pads, not their fur.",
+      "text": "Dogs have sweat glands in their paw pads, but panting is their main way to release body heat.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-10",
+      "original": "Many dogs have the instinct to dig and bury objects.",
+      "text": "Many dogs have the instinct to dig and bury objects.",
+      "topic": "Life & behavior",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs"
+    },
+    {
+      "id": "fact-11",
+      "original": "Newfoundlands are excellent swimmers and have webbed feet.",
+      "text": "Newfoundlands are excellent swimmers and have webbed feet.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/newfoundland/"
+    },
+    {
+      "id": "fact-12",
+      "original": "Basenjis are the only breed that cannot bark.",
+      "text": "Basenjis are known for an unusual yodel-like vocalization rather than a typical repeated bark; they are not silent.",
+      "topic": "Breed stories",
+      "source": "https://images.akc.org/pdf/breeds/standards/Basenji.pdf",
+      "corrected": true
+    },
+    {
+      "id": "fact-13",
+      "original": "Greyhounds are the fastest dogs, capable of running up to 45 mph.",
+      "text": "Greyhounds are exceptionally fast sprinters, although an individual dog’s speed depends on fitness, conditions, and measurement.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/greyhound/",
+      "corrected": true
+    },
+    {
+      "id": "fact-14",
+      "original": "Dogs have three eyelids, including one to keep their eyes moist.",
+      "text": "Dogs have three eyelids, including one to keep their eyes moist.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs"
+    },
+    {
+      "id": "fact-15",
+      "original": "Bloodhounds can track scents that are over 300 hours old.",
+      "text": "Scent hounds can follow odor trails, but how far or how long a scent remains detectable depends on the environment, training, and individual dog.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-16",
+      "original": "The Chihuahua is the smallest breed, while the Mastiff is the largest.",
+      "text": "Chihuahuas are among the smallest dogs, while Mastiffs are among the heaviest. Height and weight are different measures of size.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/mastiff/",
+      "corrected": true
+    },
+    {
+      "id": "fact-17",
+      "original": "Dogs can see some colors but are partially colorblind.",
+      "text": "Dogs see colors, especially blues and yellows, but distinguish reds and greens differently from people.",
+      "topic": "Body & senses",
+      "source": "https://www.akc.org/expert-advice/health/can-dogs-see-color/",
+      "corrected": true
+    },
+    {
+      "id": "fact-18",
+      "original": "Dogs communicate with each other through body language.",
+      "text": "Dogs communicate with each other through body language.",
+      "topic": "Life & behavior",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs"
+    },
+    {
+      "id": "fact-19",
+      "original": "Dogs have a natural instinct to herd, especially breeds like Border Collies.",
+      "text": "Dogs have a natural instinct to herd, especially breeds like Border Collies.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/border-collie/"
+    },
+    {
+      "id": "fact-20",
+      "original": "A dog's heart beats 60–120 times per minute, depending on the breed.",
+      "text": "A dog’s resting heart rate varies with size, age, excitement, and health; one range does not describe every dog.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-21",
+      "original": "The Labrador Retriever is one of the most popular breeds worldwide.",
+      "text": "Labrador Retrievers are well-known sporting dogs with a long history of retrieving work.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/labrador-retriever/",
+      "corrected": true
+    },
+    {
+      "id": "fact-22",
+      "original": "Dogs often dream, just like humans, and may twitch or bark in their sleep.",
+      "text": "Dogs experience REM sleep. Twitching or quiet vocalizing during sleep can occur; not every movement tells us what a dog is dreaming about.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-23",
+      "original": "A dog’s mouth exerts 320 psi of pressure.",
+      "text": "Bite force varies with the dog and how it is measured. A single pressure value does not describe every dog’s bite.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-24",
+      "original": "Dogs have existed for over 30,000 years as companions to humans.",
+      "text": "Dogs were domesticated thousands of years ago. Researchers continue to study exactly when and where that process began.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-25",
+      "original": "A dog's sense of time lets them anticipate daily routines.",
+      "text": "A dog's sense of time lets them anticipate daily routines.",
+      "topic": "Life & behavior",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs"
+    },
+    {
+      "id": "fact-26",
+      "original": "Dogs can become depressed or anxious if left alone for long periods.",
+      "text": "Some dogs experience distress when separated from their people. Separation-related behavior deserves patient support and, when needed, professional assessment.",
+      "topic": "Life & behavior",
+      "source": "https://www.merckvetmanual.com/dog-owners/behavior-of-dogs/behavior-problems-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-27",
+      "original": "Boxers are known for their playful and energetic nature.",
+      "text": "Boxers are known for their playful and energetic nature.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/boxer/"
+    },
+    {
+      "id": "fact-28",
+      "original": "Pugs are one of the most affectionate and charming dog breeds.",
+      "text": "Pugs are one of the most affectionate and charming dog breeds.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/pug/"
+    },
+    {
+      "id": "fact-29",
+      "original": "Dogs are naturally protective and can be trained to guard their owners.",
+      "text": "Protective behavior varies between individuals. Teach calm responses and use qualified, reward-based help rather than encouraging aggression.",
+      "topic": "Life & behavior",
+      "source": "https://avsab.org/resources/position-statements/",
+      "corrected": true
+    },
+    {
+      "id": "fact-30",
+      "original": "The Dalmatian's distinctive black spots are inherited genetically.",
+      "text": "The Dalmatian's distinctive black spots are inherited genetically.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/dalmatian/"
+    },
+    {
+      "id": "fact-31",
+      "original": "Golden Retrievers are one of the most popular therapy dog breeds.",
+      "text": "Some Golden Retrievers work as therapy dogs. Suitability depends on the individual dog’s health, temperament, and training.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/golden-retriever/",
+      "corrected": true
+    },
+    {
+      "id": "fact-32",
+      "original": "A dog’s body temperature is typically between 101°F and 102.5°F (about 38°C).",
+      "text": "A typical normal body temperature for dogs is about 101–102.5°F (38.3–39.2°C).",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/multimedia/table/normal-physiological-values-for-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-33",
+      "original": "Some dogs, like the Basenji, are known for not barking at all.",
+      "text": "Basenjis are known for an unusual yodel-like vocalization rather than a typical repeated bark; they are not silent.",
+      "topic": "Breed stories",
+      "source": "https://images.akc.org/pdf/breeds/standards/Basenji.pdf",
+      "corrected": true
+    },
+    {
+      "id": "fact-34",
+      "original": "The Border Collie is often considered the most intelligent dog breed.",
+      "text": "Dogs have different strengths in learning and problem solving. Comparing every dog to a particular human age or assigning one universal intelligence ranking is misleading.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-35",
+      "original": "Dogs have been known to aid in search-and-rescue missions.",
+      "text": "Dogs have been known to aid in search-and-rescue missions.",
+      "topic": "Life & behavior",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs"
+    },
+    {
+      "id": "fact-36",
+      "original": "Dogs have an excellent memory and can remember specific events for years.",
+      "text": "Dogs can retain learned associations and skills. Memory performance depends on the task, experience, age, and individual.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-37",
+      "original": "Small breeds, such as Chihuahuas, often live longer than large breeds like Great Danes.",
+      "text": "Lifespan varies considerably. Smaller dogs tend to live longer than giant breeds, but breed and individual health also matter.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-38",
+      "original": "Dogs typically live 10–15 years, though some breeds can live up to 20 years.",
+      "text": "Lifespan varies considerably. Smaller dogs tend to live longer than giant breeds, but breed and individual health also matter.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-39",
+      "original": "Some breeds, such as Greyhounds, can run up to 45 miles per hour.",
+      "text": "Greyhounds are exceptionally fast sprinters, although an individual dog’s speed depends on fitness, conditions, and measurement.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/greyhound/",
+      "corrected": true
+    },
+    {
+      "id": "fact-40",
+      "original": "The Samoyed is known for its \"Sammy smile\" and fluffy white coat.",
+      "text": "The Samoyed is known for its \"Sammy smile\" and fluffy white coat.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/samoyed/"
+    },
+    {
+      "id": "fact-41",
+      "original": "Saint Bernards were originally bred to rescue people in the Swiss Alps.",
+      "text": "Saint Bernards have a history of assisting alpine rescue work around the Great St. Bernard Hospice.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/saint-bernard/",
+      "corrected": true
+    },
+    {
+      "id": "fact-42",
+      "original": "Dogs' teeth are sharper than human teeth, helping them tear food more effectively.",
+      "text": "Dogs' teeth are sharper than human teeth, helping them tear food more effectively.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs"
+    },
+    {
+      "id": "fact-43",
+      "original": "Many dog breeds were originally bred for specific jobs like herding, hunting, or guarding.",
+      "text": "Many dog breeds were originally bred for specific jobs like herding, hunting, or guarding.",
+      "topic": "Life & behavior",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs"
+    },
+    {
+      "id": "fact-44",
+      "original": "Some dogs are known to have a \"reverse sneezing\" reflex, especially small breeds.",
+      "text": "Reverse sneezing is a series of rapid inward snorts. New, frequent, or distressing episodes should be assessed by a veterinarian.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/lung-and-airway-disorders-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-45",
+      "original": "Shiba Inus are an ancient Japanese breed known for their fox-like appearance.",
+      "text": "Shiba Inus are an ancient Japanese breed known for their fox-like appearance.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/shiba-inu/"
+    },
+    {
+      "id": "fact-46",
+      "original": "The Australian Shepherd is often called the \"Aussie\" and is a highly energetic breed.",
+      "text": "The Australian Shepherd is often called the \"Aussie\" and is a highly energetic breed.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/australian-shepherd/"
+    },
+    {
+      "id": "fact-47",
+      "original": "Greyhounds are not only fast runners but are also known for being calm and laid-back inside the home.",
+      "text": "Greyhounds are not only fast runners but are also known for being calm and laid-back inside the home.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/greyhound/"
+    },
+    {
+      "id": "fact-48",
+      "original": "Dogs' whiskers are highly sensitive and help them navigate in the dark.",
+      "text": "Whiskers are sensitive touch hairs that help dogs detect nearby objects and movement.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-49",
+      "original": "Most dogs have 42 teeth, although this can vary slightly depending on the breed.",
+      "text": "A complete set of permanent adult dog teeth normally contains 42 teeth; missing or abnormal teeth can occur.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-50",
+      "original": "The Alaskan Malamute was originally bred for sledding in harsh Arctic conditions.",
+      "text": "The Alaskan Malamute was originally bred for sledding in harsh Arctic conditions.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/alaskan-malamute/"
+    },
+    {
+      "id": "fact-51",
+      "original": "All dogs have the ability to swim, but some breeds are naturally better swimmers than others.",
+      "text": "Not every dog can swim safely. Introduce water gradually, supervise closely, and use a properly fitted canine life jacket when appropriate.",
+      "topic": "Life & behavior",
+      "source": "https://www.aaha.org/resources/dive-into-safety-water-safety-tips-for-pets/",
+      "corrected": true
+    },
+    {
+      "id": "fact-52",
+      "original": "French Bulldogs are one of the most popular small dog breeds worldwide.",
+      "text": "French Bulldogs are compact companion dogs with short muzzles; take particular care with heat and strenuous activity.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/french-bulldog/",
+      "corrected": true
+    },
+    {
+      "id": "fact-53",
+      "original": "The Beagle is one of the most popular dog breeds in the United States.",
+      "text": "Beagles are compact scent hounds developed to work in packs.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/beagle/",
+      "corrected": true
+    },
+    {
+      "id": "fact-54",
+      "original": "Some dogs, like the Irish Wolfhound, are bred to hunt large game like deer or boar.",
+      "text": "Some dogs, like the Irish Wolfhound, are bred to hunt large game like deer or boar.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/irish-wolfhound/"
+    },
+    {
+      "id": "fact-55",
+      "original": "Saint Bernards were used in Swiss monasteries to help rescue travelers in the mountains.",
+      "text": "Saint Bernards have a history of assisting alpine rescue work around the Great St. Bernard Hospice.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/saint-bernard/",
+      "corrected": true
+    },
+    {
+      "id": "fact-56",
+      "original": "Dogs' paws have sweat glands, which help them regulate their body temperature.",
+      "text": "Dogs have sweat glands in their paw pads, but panting is their main way to release body heat.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-57",
+      "original": "The Dalmatian is born completely white and develops its distinctive spots as it grows older.",
+      "text": "Dalmatian puppies are usually born with white coats and develop their spots later; some are born with larger colored patches.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/dalmatian/",
+      "corrected": true
+    },
+    {
+      "id": "fact-58",
+      "original": "Chow Chows are known for their lion-like mane and blue-black tongues.",
+      "text": "Chow Chows are known for their lion-like mane and blue-black tongues.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/chow-chow/"
+    },
+    {
+      "id": "fact-59",
+      "original": "The Australian Cattle Dog is an intelligent and hardworking breed known for its herding skills.",
+      "text": "The Australian Cattle Dog is an intelligent and hardworking breed known for its herding skills.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/australian-cattle-dog/"
+    },
+    {
+      "id": "fact-60",
+      "original": "The Pembroke Welsh Corgi is known for its short legs and fluffy appearance.",
+      "text": "The Pembroke Welsh Corgi is known for its short legs and fluffy appearance.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/pembroke-welsh-corgi/"
+    },
+    {
+      "id": "fact-61",
+      "original": "German Shepherds are often used as working dogs in police and military roles due to their intelligence and courage.",
+      "text": "German Shepherds are often used as working dogs in police and military roles due to their intelligence and courage.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/german-shepherd-dog/"
+    },
+    {
+      "id": "fact-62",
+      "original": "Dogs can suffer from separation anxiety when left alone for long periods.",
+      "text": "Some dogs experience distress when separated from their people. Separation-related behavior deserves patient support and, when needed, professional assessment.",
+      "topic": "Life & behavior",
+      "source": "https://www.merckvetmanual.com/dog-owners/behavior-of-dogs/behavior-problems-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-63",
+      "original": "Some dogs, like the Labrador Retriever, are known for being particularly social and friendly.",
+      "text": "Some dogs, like the Labrador Retriever, are known for being particularly social and friendly.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/labrador-retriever/"
+    },
+    {
+      "id": "fact-64",
+      "original": "The Akita is a large, powerful dog breed that originated in Japan.",
+      "text": "The Akita is a large, powerful dog breed that originated in Japan.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/akita/"
+    },
+    {
+      "id": "fact-65",
+      "original": "The Dachshund, also known as the \"wiener dog,\" was bred for hunting small animals like badgers.",
+      "text": "The Dachshund, also known as the \"wiener dog,\" was bred for hunting small animals like badgers.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/dachshund/"
+    },
+    {
+      "id": "fact-66",
+      "original": "The Poodle is one of the most intelligent dog breeds and is known for its curly coat.",
+      "text": "The Poodle is one of the most intelligent dog breeds and is known for its curly coat.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/poodle-standard/"
+    },
+    {
+      "id": "fact-67",
+      "original": "The Great Dane is known for being one of the largest dog breeds in the world.",
+      "text": "The Great Dane is known for being one of the largest dog breeds in the world.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/great-dane/"
+    },
+    {
+      "id": "fact-68",
+      "original": "Dog noses are highly sensitive and can even detect scents that are hours or days old.",
+      "text": "Scent hounds can follow odor trails, but how far or how long a scent remains detectable depends on the environment, training, and individual dog.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-69",
+      "original": "Dogs have been bred for thousands of years for specific roles like herding, hunting, and guarding.",
+      "text": "Dogs have been bred for thousands of years for specific roles like herding, hunting, and guarding.",
+      "topic": "Life & behavior",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs"
+    },
+    {
+      "id": "fact-70",
+      "original": "Dogs have specialized glands in their ears that help them keep their balance when they run.",
+      "text": "Balance is supported by the vestibular system, including structures in the inner ear—not by specialized ear glands.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-71",
+      "original": "Greyhounds, despite being fast runners, are also known for their calm demeanor indoors.",
+      "text": "Greyhounds, despite being fast runners, are also known for their calm demeanor indoors.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/greyhound/"
+    },
+    {
+      "id": "fact-72",
+      "original": "Dogs are descendants of wolves, and despite thousands of years of domestication, they still share many behaviors with their wild ancestors.",
+      "text": "Domestic dogs and modern wolves share ancestry. Domestication has also produced important differences in behavior and development.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-73",
+      "original": "Dogs’ paws have a unique, individual print, similar to human fingerprints.",
+      "text": "Paw pads help cushion a dog’s steps and provide traction. Paw prints should not be presented as a proven identification system like human fingerprints.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-74",
+      "original": "The average adult dog has 42 teeth.",
+      "text": "A complete set of permanent adult dog teeth normally contains 42 teeth; missing or abnormal teeth can occur.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-75",
+      "original": "Dogs have been bred for a wide range of purposes, from sledding and herding to companionship and hunting.",
+      "text": "Dogs have been bred for a wide range of purposes, from sledding and herding to companionship and hunting.",
+      "topic": "Life & behavior",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs"
+    },
+    {
+      "id": "fact-76",
+      "original": "Despite being domesticated, dogs still retain many instinctual behaviors like digging, barking, and chasing.",
+      "text": "Despite being domesticated, dogs still retain many instinctual behaviors like digging, barking, and chasing.",
+      "topic": "Life & behavior",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs"
+    },
+    {
+      "id": "fact-77",
+      "original": "Dogs have been shown to help reduce stress in humans and can even lower blood pressure.",
+      "text": "Positive interaction with dogs can support human well-being, but benefits vary and do not replace medical care.",
+      "topic": "Life & behavior",
+      "source": "https://newsinhealth.nih.gov/2018/02/power-pets",
+      "corrected": true
+    },
+    {
+      "id": "fact-78",
+      "original": "The average dog can understand more than 150 words, including commands and names of people or objects.",
+      "text": "Dogs can learn spoken cues and object names, but vocabulary varies widely with the individual and their training.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-79",
+      "original": "Dogs can detect changes in human emotions and may adjust their behavior accordingly.",
+      "text": "Dogs respond to human voices, posture, and expressions. Read the whole interaction rather than assuming a dog understands every human emotion.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-80",
+      "original": "Golden Retrievers are known for their loyalty and intelligence, making them great therapy dogs.",
+      "text": "Some Golden Retrievers work as therapy dogs. Suitability depends on the individual dog’s health, temperament, and training.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/golden-retriever/",
+      "corrected": true
+    },
+    {
+      "id": "fact-81",
+      "original": "The Mastiff is the largest dog breed in terms of weight, with some individuals reaching over 200 pounds.",
+      "text": "Chihuahuas are among the smallest dogs, while Mastiffs are among the heaviest. Height and weight are different measures of size.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/mastiff/",
+      "corrected": true
+    },
+    {
+      "id": "fact-82",
+      "original": "While dogs can see in color, their vision is not as sharp as that of humans.",
+      "text": "Dogs see colors, especially blues and yellows, but distinguish reds and greens differently from people.",
+      "topic": "Body & senses",
+      "source": "https://www.akc.org/expert-advice/health/can-dogs-see-color/",
+      "corrected": true
+    },
+    {
+      "id": "fact-83",
+      "original": "Dogs are more likely to wag their tail when they are happy, but they also wag it when anxious or frightened.",
+      "text": "A wagging tail can accompany excitement, anxiety, or tension as well as friendliness. Read the dog’s whole body and the situation.",
+      "topic": "Life & behavior",
+      "source": "https://www.akc.org/expert-advice/training/how-to-read-dog-body-language/",
+      "corrected": true
+    },
+    {
+      "id": "fact-84",
+      "original": "Dogs' sense of smell is so powerful they can detect certain cancers in humans before doctors can.",
+      "text": "Specially trained dogs have been studied for detecting disease-related odors. They do not replace medical screening or a clinical diagnosis.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-85",
+      "original": "Dogs can be trained to perform a variety of tasks, including search-and-rescue, guiding the blind, and detecting drugs or explosives.",
+      "text": "Dogs can be trained to perform a variety of tasks, including search-and-rescue, guiding the blind, and detecting drugs or explosives.",
+      "topic": "Life & behavior",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs"
+    },
+    {
+      "id": "fact-86",
+      "original": "The Chihuahua is the smallest dog breed and can often be seen in the arms of celebrities.",
+      "text": "Chihuahuas are tiny companion dogs that still need exercise, enrichment, and positive social experiences.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/chihuahua/",
+      "corrected": true
+    },
+    {
+      "id": "fact-87",
+      "original": "The Border Collie is considered one of the smartest dog breeds in the world.",
+      "text": "Dogs have different strengths in learning and problem solving. Comparing every dog to a particular human age or assigning one universal intelligence ranking is misleading.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-88",
+      "original": "Beagles are popular as both companion animals and working dogs in roles like search-and-rescue or detection.",
+      "text": "Beagles are popular as both companion animals and working dogs in roles like search-and-rescue or detection.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/beagle/"
+    },
+    {
+      "id": "fact-89",
+      "original": "Dogs' sense of hearing is more sensitive than that of humans, enabling them to hear sounds at frequencies much higher than humans can detect.",
+      "text": "Dogs' sense of hearing is more sensitive than that of humans, enabling them to hear sounds at frequencies much higher than humans can detect.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs"
+    },
+    {
+      "id": "fact-90",
+      "original": "The Cocker Spaniel was originally bred as a hunting dog and remains a popular breed for companionship today.",
+      "text": "The Cocker Spaniel was originally bred as a hunting dog and remains a popular breed for companionship today.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/cocker-spaniel/"
+    },
+    {
+      "id": "fact-91",
+      "original": "Many dog breeds have unique physical features like curly coats, short legs, or distinctive markings.",
+      "text": "Many dog breeds have unique physical features like curly coats, short legs, or distinctive markings.",
+      "topic": "Life & behavior",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs"
+    },
+    {
+      "id": "fact-92",
+      "original": "Many dogs have specialized jobs in society, including being service dogs, police dogs, or even emotional support animals.",
+      "text": "Service dogs perform trained disability-related tasks. Therapy dogs and emotional support animals have different roles.",
+      "topic": "Life & behavior",
+      "source": "https://www.akc.org/expert-advice/training/service-working-therapy-emotional-support-dogs/",
+      "corrected": true
+    },
+    {
+      "id": "fact-93",
+      "original": "Some dog breeds, like the Great Dane, can grow to be taller than 3 feet in height.",
+      "text": "Great Danes are among the tallest breeds. Breed height is measured at the shoulder, not at the top of the head.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/great-dane/",
+      "corrected": true
+    },
+    {
+      "id": "fact-94",
+      "original": "Dogs can suffer from allergies just like humans, and their symptoms can include itching, ear infections, or digestive issues.",
+      "text": "Allergies in dogs can involve itching, ear problems, or digestive signs. Similar symptoms have other causes, so veterinary assessment matters.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/skin-disorders-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-95",
+      "original": "Dogs’ body temperature is higher than that of humans, typically around 101-102°F (38.3–38.9°C).",
+      "text": "A typical normal body temperature for dogs is about 101–102.5°F (38.3–39.2°C).",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/multimedia/table/normal-physiological-values-for-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-96",
+      "original": "Dogs love routines and can become anxious if their daily schedule is disrupted.",
+      "text": "Dogs love routines and can become anxious if their daily schedule is disrupted.",
+      "topic": "Life & behavior",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs"
+    },
+    {
+      "id": "fact-97",
+      "original": "Boxers are known for being friendly, playful, and energetic, often making them great family pets.",
+      "text": "Boxers are known for being friendly, playful, and energetic, often making them great family pets.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/boxer/"
+    },
+    {
+      "id": "fact-98",
+      "original": "The Dalmatian’s distinctive spots are present at birth but gradually develop as the puppy matures.",
+      "text": "Dalmatian puppies are usually born with white coats and develop their spots later; some are born with larger colored patches.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/dalmatian/",
+      "corrected": true
+    },
+    {
+      "id": "fact-99",
+      "original": "Chow Chows are known for their lion-like mane and their calm, independent nature.",
+      "text": "Chow Chows are known for their lion-like mane and their calm, independent nature.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/chow-chow/"
+    },
+    {
+      "id": "fact-100",
+      "original": "Poodles are one of the most popular dog breeds, recognized for their intelligence and hypoallergenic coats.",
+      "text": "No dog breed is completely hypoallergenic. Low-shedding dogs can still produce allergens in dander and saliva.",
+      "topic": "Body & senses",
+      "source": "https://www.akc.org/expert-advice/dog-breeds/do-hypoallergenic-dog-exist/",
+      "corrected": true
+    },
+    {
+      "id": "fact-101",
+      "original": "The Samoyed is known for its beautiful white fur and its friendly disposition, often referred to as the \"smiling Sammie.\"",
+      "text": "The Samoyed is known for its beautiful white fur and its friendly disposition, often referred to as the \"smiling Sammie.\"",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/samoyed/"
+    },
+    {
+      "id": "fact-102",
+      "original": "Many dog breeds are considered hypoallergenic, including Poodles, Bichon Frises, and Schnauzers, due to their non-shedding coats.",
+      "text": "No dog breed is completely hypoallergenic. Low-shedding dogs can still produce allergens in dander and saliva.",
+      "topic": "Body & senses",
+      "source": "https://www.akc.org/expert-advice/dog-breeds/do-hypoallergenic-dog-exist/",
+      "corrected": true
+    },
+    {
+      "id": "fact-103",
+      "original": "The Akita is a large, muscular breed that originated in Japan, known for its loyalty and protective instincts.",
+      "text": "The Akita is a large, muscular breed that originated in Japan, known for its loyalty and protective instincts.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/akita/"
+    },
+    {
+      "id": "fact-104",
+      "original": "The Dachshund, or \"wiener dog,\" is well-known for its long body and short legs.",
+      "text": "The Dachshund, or \"wiener dog,\" is well-known for its long body and short legs.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/dachshund/"
+    },
+    {
+      "id": "fact-105",
+      "original": "Dogs are omnivores, meaning they can eat both plant-based and meat-based foods.",
+      "text": "Dogs can use nutrients from animal and plant ingredients, but a safe diet must be complete and balanced for the individual.",
+      "topic": "Life & behavior",
+      "source": "https://vcahospitals.com/know-your-pet/vegetarian-diets-for-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-106",
+      "original": "The Boxer is known for its boundless energy and playful attitude, making it a great family dog.",
+      "text": "The Boxer is known for its boundless energy and playful attitude, making it a great family dog.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/boxer/"
+    },
+    {
+      "id": "fact-107",
+      "original": "Dogs have been trained to detect bombs, drugs, and even signs of seizures in humans.",
+      "text": "Dogs can be trained for odor detection and assistance tasks. Seizure response is distinct from reliably predicting a seizure.",
+      "topic": "Life & behavior",
+      "source": "https://www.akc.org/expert-advice/training/service-working-therapy-emotional-support-dogs/",
+      "corrected": true
+    },
+    {
+      "id": "fact-108",
+      "original": "Some dogs are naturally more independent, like the Basenji, which is known for being aloof and quiet.",
+      "text": "Basenjis are often described as independent and alert. Their unusual voice does not mean they are always quiet.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/basenji/",
+      "corrected": true
+    },
+    {
+      "id": "fact-109",
+      "original": "The Basset Hound has an incredible sense of smell and was originally bred to track small game.",
+      "text": "The Basset Hound has an incredible sense of smell and was originally bred to track small game.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/basset-hound/"
+    },
+    {
+      "id": "fact-110",
+      "original": "Some dog breeds, like the Australian Shepherd, thrive on mental and physical stimulation and are highly active.",
+      "text": "Some dog breeds, like the Australian Shepherd, thrive on mental and physical stimulation and are highly active.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/australian-shepherd/"
+    },
+    {
+      "id": "fact-111",
+      "original": "Dogs can understand and respond to human emotions through vocalizations, body language, and even facial expressions.",
+      "text": "Dogs respond to human voices, posture, and expressions. Read the whole interaction rather than assuming a dog understands every human emotion.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-112",
+      "original": "The Pomeranian is a small dog breed with a large personality, known for its fluffy coat and bold demeanor.",
+      "text": "The Pomeranian is a small dog breed with a large personality, known for its fluffy coat and bold demeanor.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/pomeranian/"
+    },
+    {
+      "id": "fact-113",
+      "original": "Beagles have an incredible sense of smell and are often used for detection work at airports.",
+      "text": "Beagles have an incredible sense of smell and are often used for detection work at airports.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/beagle/"
+    },
+    {
+      "id": "fact-114",
+      "original": "The Bull Terrier, known for its unique egg-shaped head, is a playful and energetic breed.",
+      "text": "The Bull Terrier, known for its unique egg-shaped head, is a playful and energetic breed.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/bull-terrier/"
+    },
+    {
+      "id": "fact-115",
+      "original": "Dogs can suffer from obesity, especially if they don’t get enough exercise or eat too much processed food.",
+      "text": "Dogs can become overweight when calorie intake exceeds their needs. Portions, treats, activity, and health all contribute.",
+      "topic": "Life & behavior",
+      "source": "https://healthtopics.vetmed.ucdavis.edu/health-topics/canine/treat-guidelines-dogs",
+      "corrected": true
+    },
+    {
+      "id": "fact-116",
+      "original": "Dogs have excellent night vision and can see in low-light conditions better than humans.",
+      "text": "Dogs are adapted to see in dim light, but they cannot see in total darkness.",
+      "topic": "Body & senses",
+      "source": "https://www.akc.org/expert-advice/health/can-dogs-see-in-the-dark/",
+      "corrected": true
+    },
+    {
+      "id": "fact-117",
+      "original": "The Yorkshire Terrier is one of the most popular small dog breeds, known for its silky fur and feisty personality.",
+      "text": "The Yorkshire Terrier is one of the most popular small dog breeds, known for its silky fur and feisty personality.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/yorkshire-terrier/"
+    },
+    {
+      "id": "fact-118",
+      "original": "The Siberian Husky is known for its thick coat and striking blue or multicolored eyes, and is often used as a sled dog.",
+      "text": "The Siberian Husky is known for its thick coat and striking blue or multicolored eyes, and is often used as a sled dog.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/siberian-husky/"
+    },
+    {
+      "id": "fact-119",
+      "original": "German Shepherds are one of the most versatile dog breeds and are used in a wide range of jobs, from police work to military service.",
+      "text": "German Shepherds are one of the most versatile dog breeds and are used in a wide range of jobs, from police work to military service.",
+      "topic": "Breed stories",
+      "source": "https://www.akc.org/dog-breeds/german-shepherd-dog/"
+    },
+    {
+      "id": "fact-120",
+      "original": "The Beagle's nose is so powerful that it can detect a human scent from miles away.",
+      "text": "Scent hounds can follow odor trails, but how far or how long a scent remains detectable depends on the environment, training, and individual dog.",
+      "topic": "Body & senses",
+      "source": "https://www.merckvetmanual.com/dog-owners/introduction-to-dogs/description-of-dogs",
+      "corrected": true
+    }
+  ],
+  "goodFoods": [
+    {
+      "id": "good-1",
+      "original": "Chicken (cooked, no bones)",
+      "name": "Chicken (cooked, no bones)",
+      "status": "Occasional treat",
+      "note": "Serve plain, fully cooked, skinless chicken; remove every bone.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-2",
+      "original": "Carrots",
+      "name": "Carrots",
+      "status": "Occasional treat",
+      "note": "Wash and cut into small pieces to reduce choking.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-3",
+      "original": "Blueberries",
+      "name": "Blueberries",
+      "status": "Occasional treat",
+      "note": "Offer a few washed berries as an occasional treat.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-4",
+      "original": "Peanut butter (unsweetened and unsalted)",
+      "name": "Peanut butter (unsweetened and unsalted)",
+      "status": "Use caution",
+      "note": "Check for xylitol (birch sugar); use only xylitol-free, plain peanut butter sparingly.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-5",
+      "original": "Sweet potatoes (cooked)",
+      "name": "Sweet potatoes (cooked)",
+      "status": "Occasional treat",
+      "note": "Cook until soft; offer plain pieces without seasonings.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-6",
+      "original": "Pumpkin (puree)",
+      "name": "Pumpkin (puree)",
+      "status": "Occasional treat",
+      "note": "Choose plain pumpkin, not sweetened or spiced pie filling.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-7",
+      "original": "Green beans",
+      "name": "Green beans",
+      "status": "Occasional treat",
+      "note": "Serve plain, chopped beans without added salt or sauces.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-8",
+      "original": "Salmon (cooked, boneless)",
+      "name": "Salmon (cooked, boneless)",
+      "status": "Occasional treat",
+      "note": "Fully cook and remove all bones; no seasoning.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-9",
+      "original": "Bananas",
+      "name": "Bananas",
+      "status": "Occasional treat",
+      "note": "Peel and offer a few small pieces; fruit adds sugar.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-10",
+      "original": "Apples (without seeds)",
+      "name": "Apples (without seeds)",
+      "status": "Occasional treat",
+      "note": "Remove the core and seeds; cut flesh into small pieces.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-11",
+      "original": "Rice (plain, cooked)",
+      "name": "Rice (plain, cooked)",
+      "status": "Occasional treat",
+      "note": "Plain cooked rice is an extra, not a complete diet.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-12",
+      "original": "Eggs (scrambled or boiled)",
+      "name": "Eggs (scrambled or boiled)",
+      "status": "Occasional treat",
+      "note": "Cook fully without butter, salt, or other seasoning.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-13",
+      "original": "Spinach",
+      "name": "Spinach",
+      "status": "Use caution",
+      "note": "High in oxalates; choose another vegetable for dogs prone to urinary stones.",
+      "source": "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-kale/"
+    },
+    {
+      "id": "good-14",
+      "original": "Yogurt (unsweetened, plain)",
+      "name": "Yogurt (unsweetened, plain)",
+      "status": "Use caution",
+      "note": "Only plain, xylitol-free yogurt; skip if dairy causes digestive upset.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-15",
+      "original": "Oatmeal (plain, cooked)",
+      "name": "Oatmeal (plain, cooked)",
+      "status": "Occasional treat",
+      "note": "Cook in water; avoid sweetened or flavored varieties.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-16",
+      "original": "Cucumber",
+      "name": "Cucumber",
+      "status": "Occasional treat",
+      "note": "Wash and cut into manageable pieces.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-17",
+      "original": "Watermelon (without seeds)",
+      "name": "Watermelon (without seeds)",
+      "status": "Occasional treat",
+      "note": "Remove seeds and rind; offer small pieces of flesh.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-18",
+      "original": "Turkey (cooked, no bones)",
+      "name": "Turkey (cooked, no bones)",
+      "status": "Occasional treat",
+      "note": "Remove skin and bones; cook fully without seasoning.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-19",
+      "original": "Zucchini",
+      "name": "Zucchini",
+      "status": "Occasional treat",
+      "note": "Serve plain, washed, and cut into small pieces.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-20",
+      "original": "Pineapple (fresh, no skin)",
+      "name": "Pineapple (fresh, no skin)",
+      "status": "Occasional treat",
+      "note": "Remove the tough skin and core; offer a little flesh.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-21",
+      "original": "Peas (cooked)",
+      "name": "Peas (cooked)",
+      "status": "Occasional treat",
+      "note": "Plain fresh, frozen, or cooked peas; avoid added salt.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-22",
+      "original": "Chia seeds",
+      "name": "Chia seeds",
+      "status": "Ask your vet",
+      "note": "Not an essential supplement. Ask before adding seeds to a prescribed diet.",
+      "source": "https://healthtopics.vetmed.ucdavis.edu/health-topics/canine/treat-guidelines-dogs"
+    },
+    {
+      "id": "good-23",
+      "original": "Avocado (in moderation, no pit)",
+      "name": "Avocado",
+      "status": "Avoid",
+      "note": "Not a recommended treat; the pit can obstruct and fatty flesh can upset digestion.",
+      "source": "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-avocado/"
+    },
+    {
+      "id": "good-24",
+      "original": "Almonds (unsalted, in moderation)",
+      "name": "Almonds",
+      "status": "Avoid",
+      "note": "Almonds are a poor treat choice because of choking and high-fat concerns.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-25",
+      "original": "Tomatoes (ripe, no stems or leaves)",
+      "name": "Tomatoes (ripe, no stems or leaves)",
+      "status": "Use caution",
+      "note": "Only ripe red flesh; keep green tomatoes, stems, and leaves away.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-26",
+      "original": "Brussels sprouts (cooked)",
+      "name": "Brussels sprouts (cooked)",
+      "status": "Use caution",
+      "note": "Offer small plain cooked portions; may cause gas.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-27",
+      "original": "Watercress",
+      "name": "Watercress",
+      "status": "Ask your vet",
+      "note": "Do not feed foraged plants; confirm species and suitability with your vet.",
+      "source": "https://healthtopics.vetmed.ucdavis.edu/health-topics/canine/treat-guidelines-dogs"
+    },
+    {
+      "id": "good-28",
+      "original": "Broccoli (cooked)",
+      "name": "Broccoli (cooked)",
+      "status": "Use caution",
+      "note": "Offer only small plain portions; large amounts can irritate digestion.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-29",
+      "original": "Collard greens (cooked)",
+      "name": "Collard greens (cooked)",
+      "status": "Use caution",
+      "note": "Ask first for dogs with kidney or bladder stone history.",
+      "source": "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-kale/"
+    },
+    {
+      "id": "good-30",
+      "original": "Parsley",
+      "name": "Parsley",
+      "status": "Use caution",
+      "note": "Type and amount matter; do not use parsley as a supplement without advice.",
+      "source": "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-kale/"
+    },
+    {
+      "id": "good-31",
+      "original": "Cherries (without pits)",
+      "name": "Cherries",
+      "status": "Avoid",
+      "note": "Cherry flesh is not the main hazard, but pits and plant parts make other fruits a better choice.",
+      "source": "https://www.akc.org/expert-advice/nutrition/can-dogs-have-cherries/"
+    },
+    {
+      "id": "good-32",
+      "original": "Cantaloupe",
+      "name": "Cantaloupe",
+      "status": "Occasional treat",
+      "note": "Remove seeds and rind; cut flesh into small pieces.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-33",
+      "original": "Figs",
+      "name": "Figs",
+      "status": "Ask your vet",
+      "note": "Avoid dried or sweetened fruit; ask about fresh fig portions first.",
+      "source": "https://healthtopics.vetmed.ucdavis.edu/health-topics/canine/treat-guidelines-dogs"
+    },
+    {
+      "id": "good-34",
+      "original": "Melon",
+      "name": "Melon",
+      "status": "Use caution",
+      "note": "Identify the melon; offer only edible flesh without rind or seeds.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-35",
+      "original": "Squash",
+      "name": "Squash",
+      "status": "Occasional treat",
+      "note": "Serve plain cooked flesh; remove tough skin and seeds.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-36",
+      "original": "Celery",
+      "name": "Celery",
+      "status": "Occasional treat",
+      "note": "Chop into small pieces; long stalks can be difficult to chew.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-37",
+      "original": "Beef (lean, cooked, no bones)",
+      "name": "Beef (lean, cooked, no bones)",
+      "status": "Occasional treat",
+      "note": "Cook fully, choose lean cuts, and remove bones and excess fat.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-38",
+      "original": "Lamb (cooked, lean)",
+      "name": "Lamb (cooked, lean)",
+      "status": "Occasional treat",
+      "note": "Cook fully; remove bones, excess fat, and seasoning.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-39",
+      "original": "Honey (in moderation)",
+      "name": "Honey (in moderation)",
+      "status": "Use caution",
+      "note": "Sugary and unnecessary; avoid for puppies or dogs with relevant medical conditions.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-40",
+      "original": "Coconut (unsweetened)",
+      "name": "Coconut (unsweetened)",
+      "status": "Use caution",
+      "note": "Use very small plain portions; fat may cause digestive upset.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-41",
+      "original": "Ricotta cheese (low fat)",
+      "name": "Ricotta cheese (low fat)",
+      "status": "Use caution",
+      "note": "Small plain portions only if dairy is tolerated; avoid high-fat products.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-42",
+      "original": "Hummus (without garlic)",
+      "name": "Hummus (without garlic)",
+      "status": "Use caution",
+      "note": "Hummus recipes may include garlic, salt, and excess fat. Plain cooked chickpeas are simpler.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-43",
+      "original": "Beets (cooked)",
+      "name": "Beets (cooked)",
+      "status": "Use caution",
+      "note": "Serve plain and ask first if your dog has a stone-forming history.",
+      "source": "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-kale/"
+    },
+    {
+      "id": "good-44",
+      "original": "Bran flakes",
+      "name": "Bran flakes",
+      "status": "Use caution",
+      "note": "Check for raisins, chocolate, xylitol, and added sugar; not a needed food.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-45",
+      "original": "Leafy greens",
+      "name": "Leafy greens",
+      "status": "Use caution",
+      "note": "Identify the vegetable; not all greens are suitable for every dog.",
+      "source": "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-kale/"
+    },
+    {
+      "id": "good-46",
+      "original": "Apricots (without pit)",
+      "name": "Apricots (without pit)",
+      "status": "Use caution",
+      "note": "Discard pit, stem, and leaves; ask about an appropriate portion of flesh.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-47",
+      "original": "Squash (cooked)",
+      "name": "Squash (cooked)",
+      "status": "Occasional treat",
+      "note": "Cook plain and remove tough skin and seeds.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-48",
+      "original": "Tilapia (cooked, boneless)",
+      "name": "Tilapia (cooked, boneless)",
+      "status": "Occasional treat",
+      "note": "Fully cook, remove every bone, and leave unseasoned.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-49",
+      "original": "Kale (cooked)",
+      "name": "Kale (cooked)",
+      "status": "Use caution",
+      "note": "Contains oxalates and other irritants; safer vegetables are available.",
+      "source": "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-kale/"
+    },
+    {
+      "id": "good-50",
+      "original": "Whole wheat pasta (cooked)",
+      "name": "Whole wheat pasta (cooked)",
+      "status": "Use caution",
+      "note": "Plain cooked pasta only, in small portions; avoid sauces and seasonings.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-51",
+      "original": "Shrimp (cooked, no shells)",
+      "name": "Shrimp (cooked, no shells)",
+      "status": "Occasional treat",
+      "note": "Cook fully; remove shell, head, and tail; no butter or seasoning.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-52",
+      "original": "Cod (cooked, boneless)",
+      "name": "Cod (cooked, boneless)",
+      "status": "Occasional treat",
+      "note": "Cook fully and carefully remove bones; no sauces.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-53",
+      "original": "Asparagus (cooked)",
+      "name": "Asparagus (cooked)",
+      "status": "Use caution",
+      "note": "Plain cooked pieces are easier to chew; avoid tough stalks and seasonings.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-54",
+      "original": "Papaya (peeled, without seeds)",
+      "name": "Papaya (peeled, without seeds)",
+      "status": "Use caution",
+      "note": "Remove peel and seeds; offer a little plain ripe flesh.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-55",
+      "original": "Turnip greens (cooked)",
+      "name": "Turnip greens (cooked)",
+      "status": "Ask your vet",
+      "note": "Ask about greens and portion size, especially with a prescribed diet.",
+      "source": "https://healthtopics.vetmed.ucdavis.edu/health-topics/canine/treat-guidelines-dogs"
+    },
+    {
+      "id": "good-56",
+      "original": "Chia seeds",
+      "name": "Chia seeds",
+      "status": "Ask your vet",
+      "note": "Not an essential supplement. Ask before adding seeds to a prescribed diet.",
+      "source": "https://healthtopics.vetmed.ucdavis.edu/health-topics/canine/treat-guidelines-dogs"
+    },
+    {
+      "id": "good-57",
+      "original": "Brussels sprouts (cooked)",
+      "name": "Brussels sprouts (cooked)",
+      "status": "Use caution",
+      "note": "Offer small plain cooked portions; may cause gas.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "good-58",
+      "original": "Arugula",
+      "name": "Arugula",
+      "status": "Ask your vet",
+      "note": "Ask about suitability and portions; salad dressings are not appropriate.",
+      "source": "https://healthtopics.vetmed.ucdavis.edu/health-topics/canine/treat-guidelines-dogs"
+    }
+  ],
+  "badFoods": [
+    {
+      "id": "bad-1",
+      "original": "Chocolate",
+      "name": "Chocolate",
+      "status": "Toxic",
+      "note": "Keep away; risk depends on cocoa content, amount, and dog size.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-2",
+      "original": "Onions",
+      "name": "Onions",
+      "status": "Toxic",
+      "note": "Allium vegetables can damage red blood cells, including cooked forms.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-3",
+      "original": "Garlic",
+      "name": "Garlic",
+      "status": "Toxic",
+      "note": "Garlic and garlic powder can damage red blood cells.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-4",
+      "original": "Grapes",
+      "name": "Grapes",
+      "status": "Toxic",
+      "note": "Can cause serious kidney injury; contact a veterinarian after ingestion.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-5",
+      "original": "Raisins",
+      "name": "Raisins",
+      "status": "Toxic",
+      "note": "Dried grapes can cause kidney injury; seek veterinary advice promptly.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-6",
+      "original": "Xylitol (artificial sweetener)",
+      "name": "Xylitol (artificial sweetener)",
+      "status": "Toxic",
+      "note": "Also called birch sugar; can cause low blood sugar and liver injury.",
+      "source": "https://www.fda.gov/animal-veterinary/animal-health-literacy/potentially-dangerous-items-your-pet"
+    },
+    {
+      "id": "bad-7",
+      "original": "Alcohol",
+      "name": "Alcohol",
+      "status": "Toxic",
+      "note": "Alcohol-containing drinks and foods can poison dogs.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-8",
+      "original": "Caffeine",
+      "name": "Caffeine",
+      "status": "Toxic",
+      "note": "Keep coffee, tea concentrates, energy drinks, and caffeine products away.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-9",
+      "original": "Macadamia nuts",
+      "name": "Macadamia nuts",
+      "status": "Toxic",
+      "note": "Can cause weakness, tremors, and other illness.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-10",
+      "original": "Avocado (in large amounts)",
+      "name": "Avocado (in large amounts)",
+      "status": "Avoid",
+      "note": "The pit can obstruct; fatty flesh is not a recommended treat.",
+      "source": "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-avocado/"
+    },
+    {
+      "id": "bad-11",
+      "original": "Cherries (with pits)",
+      "name": "Cherries (with pits)",
+      "status": "Choking / obstruction",
+      "note": "Pits can obstruct; chewed pits and other plant parts add toxicity concerns.",
+      "source": "https://www.akc.org/expert-advice/nutrition/can-dogs-have-cherries/"
+    },
+    {
+      "id": "bad-12",
+      "original": "Cooked bones",
+      "name": "Cooked bones",
+      "status": "Choking / obstruction",
+      "note": "Bones can splinter or obstruct the digestive tract.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-13",
+      "original": "Raw dough",
+      "name": "Raw dough",
+      "status": "Toxic",
+      "note": "Raw yeast dough can expand and produce alcohol inside the stomach.",
+      "source": "https://www.fda.gov/animal-veterinary/animal-health-literacy/potentially-dangerous-items-your-pet"
+    },
+    {
+      "id": "bad-14",
+      "original": "Salt (excessive amounts)",
+      "name": "Salt (excessive amounts)",
+      "status": "Use caution",
+      "note": "Excess salt can cause poisoning; keep salty snacks out of reach.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-15",
+      "original": "Raw fish (containing parasites)",
+      "name": "Raw fish (containing parasites)",
+      "status": "Avoid",
+      "note": "Raw fish can carry pathogens or parasites; use fully cooked boneless fish.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "bad-16",
+      "original": "Apple seeds",
+      "name": "Apple seeds",
+      "status": "Avoid",
+      "note": "Remove seeds and core before offering apple flesh.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "bad-17",
+      "original": "Peach pits",
+      "name": "Peach pits",
+      "status": "Choking / obstruction",
+      "note": "Keep pits away; swallowed pits may obstruct and chewed kernels pose added risk.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "bad-18",
+      "original": "Plums (with pits)",
+      "name": "Plums (with pits)",
+      "status": "Choking / obstruction",
+      "note": "Keep the pit and plant parts away; do not offer whole plums.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "bad-19",
+      "original": "Mustard seeds",
+      "name": "Mustard seeds",
+      "status": "Avoid",
+      "note": "Do not offer mustard seeds or mustard condiments; choose plain foods.",
+      "source": "https://www.petpoisonhelpline.com/poisons/"
+    },
+    {
+      "id": "bad-20",
+      "original": "Hops (used in beer brewing)",
+      "name": "Hops (used in beer brewing)",
+      "status": "Toxic",
+      "note": "Brewing hops can cause dangerous overheating; seek veterinary care immediately.",
+      "source": "https://www.petpoisonhelpline.com/poison/hops/"
+    },
+    {
+      "id": "bad-21",
+      "original": "Alcohol-based vanilla extract",
+      "name": "Alcohol-based vanilla extract",
+      "status": "Toxic",
+      "note": "Keep concentrated alcohol-based flavoring extracts out of reach.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-22",
+      "original": "Macadamia nuts",
+      "name": "Macadamia nuts",
+      "status": "Toxic",
+      "note": "Can cause weakness, tremors, and other illness.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-23",
+      "original": "Pitted fruits (peaches, plums)",
+      "name": "Pitted fruits (peaches, plums)",
+      "status": "Choking / obstruction",
+      "note": "Remove and discard pits; never offer whole stone fruits.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "bad-24",
+      "original": "Artificial sweeteners (especially xylitol)",
+      "name": "Artificial sweeteners (especially xylitol)",
+      "status": "Use caution",
+      "note": "Xylitol is toxic; other sweeteners are not automatically equally toxic. Check ingredients.",
+      "source": "https://www.fda.gov/animal-veterinary/animal-health-literacy/potentially-dangerous-items-your-pet"
+    },
+    {
+      "id": "bad-25",
+      "original": "Processed sugars",
+      "name": "Processed sugars",
+      "status": "Use caution",
+      "note": "Added sugar is unnecessary; excess treats add calories. Not inherently a poison.",
+      "source": "https://healthtopics.vetmed.ucdavis.edu/health-topics/canine/treat-guidelines-dogs"
+    },
+    {
+      "id": "bad-26",
+      "original": "Raw potatoes",
+      "name": "Raw potatoes",
+      "status": "Avoid",
+      "note": "Avoid raw or green potatoes; plain cooked potato flesh is different.",
+      "source": "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-potatoes/"
+    },
+    {
+      "id": "bad-27",
+      "original": "Tomato leaves and stems",
+      "name": "Tomato leaves and stems",
+      "status": "Toxic",
+      "note": "Green tomato plant parts contain compounds that can cause illness.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "bad-28",
+      "original": "Raw eggs (due to risk of Salmonella)",
+      "name": "Raw eggs (due to risk of Salmonella)",
+      "status": "Avoid",
+      "note": "Raw eggs can carry harmful bacteria; offer fully cooked egg instead.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-29",
+      "original": "Fatty foods (like bacon, hot dogs)",
+      "name": "Fatty foods (like bacon, hot dogs)",
+      "status": "Avoid",
+      "note": "Fatty, salty meats are poor treats and can trigger digestive problems.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-30",
+      "original": "Chewing gum with xylitol",
+      "name": "Chewing gum with xylitol",
+      "status": "Toxic",
+      "note": "Gum containing xylitol is dangerous; seek veterinary advice after ingestion.",
+      "source": "https://www.fda.gov/animal-veterinary/animal-health-literacy/potentially-dangerous-items-your-pet"
+    },
+    {
+      "id": "bad-31",
+      "original": "Nutmeg",
+      "name": "Nutmeg",
+      "status": "Toxic",
+      "note": "Large amounts can cause poisoning; do not offer nutmeg as a treat.",
+      "source": "https://www.petpoisonhelpline.com/pet-safety-tips/nutmeg-cinnamon-toxicity/"
+    },
+    {
+      "id": "bad-32",
+      "original": "Rhubarb leaves",
+      "name": "Rhubarb leaves",
+      "status": "Toxic",
+      "note": "Rhubarb leaves are a toxic plant exposure; keep away.",
+      "source": "https://www.petpoisonhelpline.com/poison/rhubarb/"
+    },
+    {
+      "id": "bad-33",
+      "original": "Uncooked pork",
+      "name": "Uncooked pork",
+      "status": "Avoid",
+      "note": "Raw pork can carry pathogens; use fully cooked, plain, lean meat.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-34",
+      "original": "Unripe tomatoes",
+      "name": "Unripe tomatoes",
+      "status": "Avoid",
+      "note": "Avoid green unripe tomatoes; ripe red flesh is a different preparation.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "bad-35",
+      "original": "Foods with too much dairy",
+      "name": "Foods with too much dairy",
+      "status": "Use caution",
+      "note": "Many dogs poorly tolerate lactose; amount and product matter.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-36",
+      "original": "Cooked chicken bones",
+      "name": "Cooked chicken bones",
+      "status": "Choking / obstruction",
+      "note": "Cooked poultry bones can splinter; remove all bones.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-37",
+      "original": "Pitted fruit skins",
+      "name": "Pitted fruit skins",
+      "status": "Preparation matters",
+      "note": "Fruit skins are not all toxic. Identify the fruit; discard pits and unsuitable parts.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "bad-38",
+      "original": "Raw meat (due to parasites)",
+      "name": "Raw meat (due to parasites)",
+      "status": "Avoid",
+      "note": "Raw meat can expose dogs and people to pathogens.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-39",
+      "original": "Chili peppers",
+      "name": "Chili peppers",
+      "status": "Avoid",
+      "note": "Spicy peppers can irritate digestion; do not intentionally feed.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "bad-40",
+      "original": "Hemp products",
+      "name": "Hemp products",
+      "status": "Ask your vet",
+      "note": "THC-containing products can poison dogs; hemp foods and CBD products are not interchangeable.",
+      "source": "https://www.petpoisonhelpline.com/poison/marijuana/"
+    },
+    {
+      "id": "bad-41",
+      "original": "Pickles",
+      "name": "Pickles",
+      "status": "Avoid",
+      "note": "Often salty and may contain garlic or onions; use plain cucumber instead.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "bad-42",
+      "original": "Fatty meats (gravy, sausage)",
+      "name": "Fatty meats (gravy, sausage)",
+      "status": "Avoid",
+      "note": "Gravy and sausage may be fatty, salty, or contain alliums.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-43",
+      "original": "Raw sprouts",
+      "name": "Raw sprouts",
+      "status": "Avoid",
+      "note": "Raw sprouts can carry bacteria; do not use as a routine treat.",
+      "source": "https://www.fda.gov/animal-veterinary/animal-health-literacy/get-facts-raw-pet-food-diets-can-be-dangerous-you-and-your-pet"
+    },
+    {
+      "id": "bad-44",
+      "original": "Sugar-free candy",
+      "name": "Sugar-free candy",
+      "status": "Use caution",
+      "note": "Check the label: xylitol is toxic; sugar-free does not identify every ingredient.",
+      "source": "https://www.fda.gov/animal-veterinary/animal-health-literacy/potentially-dangerous-items-your-pet"
+    },
+    {
+      "id": "bad-45",
+      "original": "Tomato paste (contains salt)",
+      "name": "Tomato paste (contains salt)",
+      "status": "Preparation matters",
+      "note": "Plain tomato paste is not automatically toxic; avoid added alliums, salt, and seasonings.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "bad-46",
+      "original": "Corn on the cob",
+      "name": "Corn on the cob",
+      "status": "Choking / obstruction",
+      "note": "The cob can obstruct; do not let a dog chew or swallow it.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "bad-47",
+      "original": "Milk chocolate",
+      "name": "Milk chocolate",
+      "status": "Toxic",
+      "note": "Contains chocolate compounds harmful to dogs; seek advice after ingestion.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-48",
+      "original": "Blue cheese",
+      "name": "Blue cheese",
+      "status": "Avoid",
+      "note": "Mold-ripened cheeses can pose risks; use safer treats.",
+      "source": "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cheese/"
+    },
+    {
+      "id": "bad-49",
+      "original": "Sweetened cereals",
+      "name": "Sweetened cereals",
+      "status": "Use caution",
+      "note": "Not a useful staple; check for chocolate, raisins, and xylitol.",
+      "source": "https://www.fda.gov/animal-veterinary/animal-health-literacy/potentially-dangerous-items-your-pet"
+    },
+    {
+      "id": "bad-50",
+      "original": "Spicy foods",
+      "name": "Spicy foods",
+      "status": "Avoid",
+      "note": "Spices and sauces may irritate digestion or contain harmful ingredients.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "bad-51",
+      "original": "Sour cream",
+      "name": "Sour cream",
+      "status": "Use caution",
+      "note": "Fat and lactose may upset digestion; not a recommended routine treat.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-52",
+      "original": "High-sodium snacks",
+      "name": "High-sodium snacks",
+      "status": "Use caution",
+      "note": "Excess salt can be harmful; choose low-salt dog-appropriate treats.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-53",
+      "original": "Frozen foods",
+      "name": "Frozen foods",
+      "status": "Preparation matters",
+      "note": "Frozen is not inherently unsafe. Ingredients, choking risk, and storage determine safety.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "bad-54",
+      "original": "Fake cheese products",
+      "name": "Fake cheese products",
+      "status": "Use caution",
+      "note": "Processed cheese products may be salty and fatty; check ingredients.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "bad-55",
+      "original": "Alcoholic beverages",
+      "name": "Alcoholic beverages",
+      "status": "Toxic",
+      "note": "Alcohol-containing drinks and foods can poison dogs.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-56",
+      "original": "High-fat dairy",
+      "name": "High-fat dairy",
+      "status": "Use caution",
+      "note": "Fat and lactose can cause digestive upset; avoid rich portions.",
+      "source": "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+    },
+    {
+      "id": "bad-57",
+      "original": "Gum containing xylitol",
+      "name": "Gum containing xylitol",
+      "status": "Toxic",
+      "note": "Gum containing xylitol is dangerous; seek veterinary advice after ingestion.",
+      "source": "https://www.fda.gov/animal-veterinary/animal-health-literacy/potentially-dangerous-items-your-pet"
+    },
+    {
+      "id": "bad-58",
+      "original": "Salami",
+      "name": "Salami",
+      "status": "Avoid",
+      "note": "A salty, fatty processed meat; may also contain garlic or other seasonings.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "bad-59",
+      "original": "Fruit pits (like apricot or nectarine)",
+      "name": "Fruit pits (like apricot or nectarine)",
+      "status": "Choking / obstruction",
+      "note": "Keep pits away; obstruction and chewed-kernel risks depend on the fruit.",
+      "source": "https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "bad-60",
+      "original": "Uncooked hot dogs",
+      "name": "Uncooked hot dogs",
+      "status": "Avoid",
+      "note": "Poor routine treats because of salt, fat, and choking risk, even when cooked.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    },
+    {
+      "id": "bad-61",
+      "original": "Cooked potatoes (without removing skin)",
+      "name": "Cooked potatoes and skins",
+      "status": "Preparation matters",
+      "note": "Plain fully cooked potato is not automatically unsafe because it has skin; avoid green parts.",
+      "source": "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-potatoes/"
+    },
+    {
+      "id": "bad-62",
+      "original": "Sour milk",
+      "name": "Sour milk",
+      "status": "Avoid",
+      "note": "Spoiled dairy can cause illness; discard it.",
+      "source": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+    }
+  ]
+}
